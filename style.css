@@ -2,3 +2,60 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body{
+  background: #500b7f;
+  color: #080808;
+  font-family:'Times New Roman', Times, serif
+}
+
+header {
+  background: #000000;
+  color: #fff;
+  font-family:'Times New Roman', Times, serif;
+}
+
+h3 {
+  font-size: 35px;
+  margin-left: 30px;
+  text-decoration: underline;
+  margin-top: 150px;
+}
+
+img {
+  margin-left: 430px;
+  margin-top: 10px;
+  margin-bottom: -150px;
+}
+
+h1 {
+  margin-left: 130px;
+  font-size: 55px;
+}
+
+h5 {
+  font-size: 15px;
+  margin-left: 1040px;
+  margin-top: -120px;
+  width: 15%;
+}
+
+h2 {
+  margin-left: 50px;
+  font-size: 55px;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 15px;
+  margin-top: 30px;
+  width: 60%;
+  margin-left: 70px;
+}
+
+h4 {
+  font-size: 15px;
+  margin-top: -10px;
+  width: 40%;
+  margin-left: 390px;
+}
