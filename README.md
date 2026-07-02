@@ -1,1 +1,1 @@
-This is a website all about Eniola Olaniyi
+It is a website all about Eniola Olaniyi.
